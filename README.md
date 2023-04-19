@@ -10,7 +10,7 @@
 - Terminal üzerinden ilk önce `npm install` yazarak bütün modülleri inidirin.
 - Bot'u çalıştırmak için `src/config.json` dosyasını düzenleyin.
 - Typescript kodlarımızın javascript kodlarına derlenmesi için `npm run build` yazmanız gerekir.
-- Bu işlemden sonra `npm run start` yazmanız yeterlidir.
+- Bu işlemden sonra `npm run test` yazmanız yeterlidir.
 
 ## ⭐ | Destek ol
 
