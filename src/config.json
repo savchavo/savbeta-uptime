@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "prefix": ".",
+    "developers": [
+        "",
+        ""
+    ], 
+    "database": {
+        "url": "your_mongodb_url"
+    }
+}

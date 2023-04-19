@@ -1,4 +1,19 @@
-# savbeta-uptime
-Sav betanın gelişmiş altyapısı
-![IMG_20230418_232208](https://user-images.githubusercontent.com/112887607/232931637-e18642f1-ee6c-48fc-8027-d052347e6780.jpg)
-![IMG_20230418_232231](https://user-images.githubusercontent.com/112887607/232931641-97321274-08b0-4cc4-9f06-6ceb128cd646.jpg)
+# RomanBot | Typescript
+
+# 🔨 | Kurulum
+
+- Terminal üzerinden ilk önce `npm install` yazarak bütün modülleri inidirin.
+- Bot'u çalıştırmak için `src/config.json` dosyasını düzenleyin.
+- Bot'u typescript üzerinden çalıştırmak için `npm run test` yazmanız yeterlidir.
+
+# 🛠 | Javascript üzerinden çalıştırmak;
+- Terminal üzerinden ilk önce `npm install` yazarak bütün modülleri inidirin.
+- Bot'u çalıştırmak için `src/config.json` dosyasını düzenleyin.
+- Typescript kodlarımızın javascript kodlarına derlenmesi için `npm run build` yazmanız gerekir.
+- Bu işlemden sonra `npm run start` yazmanız yeterlidir.
+
+## ⭐ | Destek ol
+
+- Projenin gelişiminden memmnunsanız starlamanızı tavsiye ederim.
+
+> coding and designing: github.com/romanwashere | 'Roman#0001
